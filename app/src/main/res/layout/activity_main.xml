@@ -40,4 +40,11 @@
         android:layout_height="wrap_content"
         android:text="query"
         />
+    <Button
+        android:id="@+id/litepal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="use litepal"
+        />
 </LinearLayout>
